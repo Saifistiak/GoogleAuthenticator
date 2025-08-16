@@ -1,0 +1,28 @@
+{
+    "name": "saifistiak/google-authenticator",
+    "description": "PHP class to generate and verify Google Authenticator 2-factor authentication easily.",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": ["GoogleAuthenticator", "TOTP", "2FA"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saif Istiak",
+            "email": "info@saifistiak.me",
+            "homepage": "https://www.saifistiak.me/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/Saifistiak/GoogleAuthenticator",
+        "issues": "https://github.com/Saifistiak/GoogleAuthenticator/issues"
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "PHPSaif\\": "src/PHPSaif/"
+        }
+    }
+}
