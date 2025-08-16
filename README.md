@@ -142,7 +142,6 @@ MIT License. See [LICENSE](LICENSE) file for details.
 ## 💬 Support
 
 - 🐛 Report Issues  
-- ✉️ Email: **info@saifistiak.me**  
-- 🌐 Website: [saifistiak.me](https://saifistiak.me)
+- ✉️ Email: **saifistiak.bd@outlook.com**  
 
 ---
